@@ -25,7 +25,7 @@ Welcome to the Campsite Reservation System, a Java project that facilitates the 
 
 To use the Campsite Reservation System, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/campsite-reservation.git`
+1. Clone the repository: `git clone https://github.com/your-username/CampReservation.git`
 2. Open the project in your preferred Java IDE.
 3. Build and run the project.
 
